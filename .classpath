@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="Hybrid_Framework/src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="Hybrid_Framework/src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="Hybrid_Framework/Library/Jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="Hybrid_Framework/Library/Jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="Hybrid_Framework/Library/Jars/client-combined-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="Hybrid_Framework/Library/Jars/commons-exec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="Hybrid_Framework/Library/Jars/guava-25.0-jre.jar"/>
+	<classpathentry exported="true" kind="lib" path="Hybrid_Framework/Library/Jars/okhttp-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="Hybrid_Framework/Library/Jars/okio-1.14.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="Hybrid_Framework/Library/Log4j/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="Hybrid_Framework/target/Hybrid_Framework-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashur/Downloads/poi-4.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashur/Downloads/testng-7.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
